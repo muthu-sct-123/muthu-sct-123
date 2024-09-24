@@ -1,4 +1,5 @@
 PROFESSIONAL SUMMARY:
+
 With an overall experience in IT for the past 19 years, I have performed the following key roles for
 the benefit of the organizations I have worked with.
 * Lead Developer for development/support of Manufacturing-Based File Transfers
@@ -16,10 +17,14 @@ Teams to implement solutions and ensure a smooth transition
 * Facilitated Training for e-Learning Software (ToolBook)
 
 IT SKILL SET
+
 Programming: JavaScript, Shell Script, HTML, VueJS, ExpressJS, AngularJS, ReactJS,
 PERL, PHP, Python, Java, R
+
 Database: MySQL, PostgreSQL, MSSQL
+
 Operating System: Windows, Linux
+
 Deployment: MS Team Foundation Server (TFS), Jenkins, GitHub Repo
 
 TRAINING
@@ -30,6 +35,7 @@ FOUNDER / OWNER OF SITE
 http://themachinelearning.online – Simple Stats Implementation using PHP, Python, PERL, R & JS
 
 PERSONAL INFORMATION
+
 Nationality: Malaysian (IC: 820920-10-5985)
 Academic Level: Bachelor of Engineering Degree (B.E) Electronics & Communication
 First Class with Distinction [84.38 %]
