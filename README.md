@@ -16,6 +16,7 @@ Teams to implement solutions and ensure a smooth transition
 * Co-ordinate development of LMS for Oil and Gas Company (Talisman)
 * Facilitated Training for e-Learning Software (ToolBook)
 
+
 **IT SKILL SET**
 
 Programming: JavaScript, Shell Script, HTML, VueJS, ExpressJS, AngularJS, ReactJS,
@@ -26,6 +27,7 @@ Database: MySQL, PostgreSQL, MSSQL
 Operating System: Windows, Linux
 
 Deployment: MS Team Foundation Server (TFS), Jenkins, GitHub Repo
+
 
 **TRAINING**
 * IT Infrastructure Library (ITIL) Foundation
@@ -45,6 +47,8 @@ First Class with Distinction [84.38 %]
 Address: 23, Jalan Setia Indah U13/12E, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor
 
 Martial Status: Married Age: 42 years
+
+Email: alagappan.muthiah@gmail.com
 
 
 **PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023**
