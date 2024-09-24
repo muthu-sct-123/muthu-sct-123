@@ -37,11 +37,14 @@ http://themachinelearning.online – Simple Stats Implementation using PHP, Pyth
 **PERSONAL INFORMATION**
 
 Nationality: Malaysian (IC: 820920-10-5985)
-Academic Level: Bachelor of Engineering Degree (B.E) Electronics & Communication
-First Class with Distinction [84.38 %]
-Address: 23, Jalan Setia Indah U13/12E, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor
-Martial Status: Married Age: 42 years
 
+Academic Level: Bachelor of Engineering Degree (B.E) Electronics & Communication
+
+First Class with Distinction [84.38 %]
+
+Address: 23, Jalan Setia Indah U13/12E, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor
+
+Martial Status: Married Age: 42 years
 
 **PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023**
 CAREERWISE - AMD GLOBAL SERVICES, MALAYSIA Technical Team Lead (Business Systems Engineer)
