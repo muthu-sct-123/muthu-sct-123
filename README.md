@@ -38,6 +38,7 @@ Martial Status: Married Age: 42 years
 
 PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023
 CAREERWISE - AMD GLOBAL SERVICES, MALAYSIA Technical Team Lead (Business Systems Engineer)
+
 Roles & Responsibilities:
 * Technical Lead & SME for the development of Managed File Transfer (MFT) Application [Java & MySQL]
 * Consolidation of MFT Workflows from EFT and LZ into a single system - ESB [Perl, Shell Script]
@@ -48,6 +49,7 @@ Roles & Responsibilities:
 
 PROFESSIONAL EXPERIENCE #2 SEP 2010 ~ DEC 2015
 AMD GLOBAL SERVICES, MALAYSIA Senior IT Engineer
+
 Roles & Responsibilities:
 * Asia Lead Developer for implementation of Managed File Transfer (MFT) Application [Java & MySQL]
 * ITBP (Business Partner) to collect Business Requirements for Product Enablement [MS Excel & Word]
@@ -62,6 +64,7 @@ ACHIEVEMENTS
 
 PROFESSIONAL EXPERIENCE #1 MAR 2005 ~ SEP 2010
 TRAXMEDIA SDN BHD, MALAYSIA IT Manager
+
 Roles & Responsibilities:
 * Designed & Implemented Employee Management System [ASP.Net & MSSQL]
 * Designed & Implemented Talisman LMS [ASP & MSSQL]
