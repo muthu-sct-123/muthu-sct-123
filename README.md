@@ -1,4 +1,4 @@
-PROFESSIONAL SUMMARY:
+**PROFESSIONAL SUMMARY**
 
 With an overall experience in IT for the past 19 years, I have performed the following key roles for
 the benefit of the organizations I have worked with.
@@ -16,7 +16,7 @@ Teams to implement solutions and ensure a smooth transition
 * Co-ordinate development of LMS for Oil and Gas Company (Talisman)
 * Facilitated Training for e-Learning Software (ToolBook)
 
-IT SKILL SET
+**IT SKILL SET**
 
 Programming: JavaScript, Shell Script, HTML, VueJS, ExpressJS, AngularJS, ReactJS,
 PERL, PHP, Python, Java, R
@@ -27,14 +27,14 @@ Operating System: Windows, Linux
 
 Deployment: MS Team Foundation Server (TFS), Jenkins, GitHub Repo
 
-TRAINING
+**TRAINING**
 * IT Infrastructure Library (ITIL) Foundation
 * Enterprise Service Bus (ESB) - JBoss Fuse
 
-FOUNDER / OWNER OF SITE
+**FOUNDER / OWNER OF SITE**
 http://themachinelearning.online – Simple Stats Implementation using PHP, Python, PERL, R & JS
 
-PERSONAL INFORMATION
+**PERSONAL INFORMATION**
 
 Nationality: Malaysian (IC: 820920-10-5985)
 Academic Level: Bachelor of Engineering Degree (B.E) Electronics & Communication
@@ -42,7 +42,8 @@ First Class with Distinction [84.38 %]
 Address: 23, Jalan Setia Indah U13/12E, Seksyen U13, Setia Alam, 40170 Shah Alam, Selangor
 Martial Status: Married Age: 42 years
 
-PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023
+
+**PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023**
 CAREERWISE - AMD GLOBAL SERVICES, MALAYSIA Technical Team Lead (Business Systems Engineer)
 
 Roles & Responsibilities:
@@ -53,7 +54,7 @@ Roles & Responsibilities:
 * End-to-end documentation for all Production Deployments [MS Word & Visio]
 * Developed OSAT / Supplier File Incoming Statistics Prototype [Python & MySQL]
 
-PROFESSIONAL EXPERIENCE #2 SEP 2010 ~ DEC 2015
+**PROFESSIONAL EXPERIENCE #2 SEP 2010 ~ DEC 2015**
 AMD GLOBAL SERVICES, MALAYSIA Senior IT Engineer
 
 Roles & Responsibilities:
@@ -63,12 +64,12 @@ Roles & Responsibilities:
 * Retirement of Legacy LZ Application / Servers [Perl, Shell Script]
 * Consolidation of NEO Application [Perl, Shell Script]
 
-ACHIEVEMENTS
+**ACHIEVEMENTS**
 * Received Spotlight Award for MFT ESB Implementation
 * Received Spotlight Award for Tessolve Lab Workflows Setup
 * Received AMD Peer Card for MFT Systems Development
 
-PROFESSIONAL EXPERIENCE #1 MAR 2005 ~ SEP 2010
+**PROFESSIONAL EXPERIENCE #1 MAR 2005 ~ SEP 2010**
 TRAXMEDIA SDN BHD, MALAYSIA IT Manager
 
 Roles & Responsibilities:
