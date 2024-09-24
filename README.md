@@ -46,7 +46,9 @@ Address: 23, Jalan Setia Indah U13/12E, Seksyen U13, Setia Alam, 40170 Shah Alam
 
 Martial Status: Married Age: 42 years
 
+
 **PROFESSIONAL EXPERIENCE #3 JAN 2016 ~ DEC 2023**
+
 CAREERWISE - AMD GLOBAL SERVICES, MALAYSIA Technical Team Lead (Business Systems Engineer)
 
 Roles & Responsibilities:
@@ -58,6 +60,7 @@ Roles & Responsibilities:
 * Developed OSAT / Supplier File Incoming Statistics Prototype [Python & MySQL]
 
 **PROFESSIONAL EXPERIENCE #2 SEP 2010 ~ DEC 2015**
+
 AMD GLOBAL SERVICES, MALAYSIA Senior IT Engineer
 
 Roles & Responsibilities:
@@ -73,6 +76,7 @@ Roles & Responsibilities:
 * Received AMD Peer Card for MFT Systems Development
 
 **PROFESSIONAL EXPERIENCE #1 MAR 2005 ~ SEP 2010**
+
 TRAXMEDIA SDN BHD, MALAYSIA IT Manager
 
 Roles & Responsibilities:
